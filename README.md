@@ -11,5 +11,7 @@
 ```bash
 git add .
 git commit -m 'Mi Primer Readme' 
-git push origin master 
+git push origin master
+git clone URL
+git status
 ```
